@@ -1,0 +1,4 @@
+ticket_id,product,batch,problem,repair
+1,Brake System,B101,Vibration,Pad replacement
+2,Battery,B203,Overheating,Cooling system check
+3,Sensor,B333,Failure,Sensor replaced

@@ -117,15 +117,15 @@ Manufacturing Defects
 
 The platform delivers measurable operational and business benefits.
 
-- Cost Reduction: Early detection reduces warranty payouts and recall costs.
+- **Cost Reduction**: Early detection reduces warranty payouts and recall costs.
 
-- Risk Reduction: Predicting high-risk batches prevents large-scale failures.
+- **Risk Reduction**: Predicting high-risk batches prevents large-scale failures.
 
-- Customer Experience: Proactive issue resolution improves customer trust and satisfaction.
+- **Customer Experience**: Proactive issue resolution improves customer trust and satisfaction.
 
-- Productivity Improvement: Automation reduces manual analysis and speeds up decision-making.
+- **Productivity Improvement**: Automation reduces manual analysis and speeds up decision-making.
 
-- Product Quality Improvement: Root cause insights enable better design and manufacturing improvements.
+- **Product Quality Improvement**: Root cause insights enable better design and manufacturing improvements.
 
 ---
 

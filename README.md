@@ -85,31 +85,30 @@ Administrators receive alerts when predicted risk exceeds thresholds.
 
 ## System Architecture
 
-Data Sources
-
+**Data Sources**
 Warranty Claims  
 Service Tickets  
 Manufacturing Defects
 
 ↓
 
-Data Processing Pipeline (Python)
+**Data Processing Pipeline (Python)**
 
 ↓
 
-Snowflake Data Warehouse
+**Snowflake Data Warehouse**
 
 ↓
 
-Machine Learning Risk Prediction Model
+**Machine Learning Risk Prediction Model**
 
 ↓
 
-Vector Database + Azure OpenAI (Root Cause Analysis)
+**Vector Database + Azure OpenAI (Root Cause Analysis)**
 
 ↓
 
-Streamlit Dashboard + Alert System
+**Streamlit Dashboard + Alert System**
 
 ---
 

@@ -86,6 +86,7 @@ Administrators receive alerts when predicted risk exceeds thresholds.
 ## System Architecture
 
 **Data Sources**
+
 Warranty Claims  
 Service Tickets  
 Manufacturing Defects
@@ -112,13 +113,19 @@ Manufacturing Defects
 
 ---
 
-## Impact
+## Insights and Impact
 
-- Reduced warranty and recall costs
-- Improved customer satisfaction
-- Faster detection of field failures
-- Better regulatory compliance
-- Improved product design and reliability
+The platform delivers measurable operational and business benefits.
+
+- Cost Reduction: Early detection reduces warranty payouts and recall costs.
+
+- Risk Reduction: Predicting high-risk batches prevents large-scale failures.
+
+- Customer Experience: Proactive issue resolution improves customer trust and satisfaction.
+
+- Productivity Improvement: Automation reduces manual analysis and speeds up decision-making.
+
+- Product Quality Improvement: Root cause insights enable better design and manufacturing improvements.
 
 ---
 
@@ -141,6 +148,3 @@ Manufacturing Defects
 
 ---
 
-## Author
-
-Hackathon AI Project

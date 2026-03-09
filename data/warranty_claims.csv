@@ -1,5 +1,0 @@
-claim_id,product,batch,issue,date
-1,Brake System,B101,Noise,2024-01-02
-2,Brake System,B101,Vibration,2024-01-05
-3,Battery,B203,Overheating,2024-01-10
-4,Sensor,B333,Failure,2024-01-15

@@ -1,4 +1,4 @@
-# AI External Failure Prediction System
+# FailGuard AI - AI External Failure Prediction System
 
 ## Overview
 
